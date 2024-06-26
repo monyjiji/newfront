@@ -1,0 +1,29 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+  }
+
+   
+
+  
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+   
+    
+    
+  }
+  
+  .thecontent {
+    flex: 1;
+   
+  }
+  
+  .footercontainer {
+    background-color: #3F9CFF;
+    text-align: center;
+    color: white;
+    
+   
+  }
